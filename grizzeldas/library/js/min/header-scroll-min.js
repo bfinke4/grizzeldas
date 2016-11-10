@@ -1,0 +1,1 @@
+$(function(){var a=$(".clearHeader");$(window).scroll(function(){var e=$(window).scrollTop();e>=500?a.removeClass("clearHeader").addClass("darkHeader"):a.removeClass("darkHeader").addClass("clearHeader")})});
